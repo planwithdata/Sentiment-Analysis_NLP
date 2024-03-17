@@ -38,7 +38,10 @@ Instructions for replicating the analysis and exploring the results are provided
 
 Special thanks to all the organizations and individuals involved in the ConnectRVA 2045 planning process for making the Public Engagement & Outreach Report publicly available, enabling this analysis.
 
-## Plots
+## Visualization of Sentiment Analysis Results
+
+Explore detailed visualizations of the sentiment analysis results in our [Plots folder](https://github.com/planwithdata/Sentiment-Analysis_NLP/tree/main/Plots), which contains a series of charts and graphs depicting various sentiment trends and distributions related to the public comments on the ConnectRVA 2045 project.
+
 
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/e12fb56f-c6b0-45ac-96c2-31ad97ffc505)
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/a826de33-729c-45fe-9a1d-6acce8f2e119)
