@@ -1,4 +1,4 @@
-# Sentiment Analysis of PlanRVA Public Comments using Facebook's BART model
+# Sentiment Analysis of PlanRVA (Regional Planning Agency - Richmond, VA) Public Comments using Facebook's BART model
 
 This project utilizes Natural Language Processing (NLP) techniques to perform sentiment analysis on public review comments associated with PlanRVA's Public Engagement and Outreach Report, specifically related to the development of the ConnectRVA 2045 Long-Range Transportation Plan.
 
