@@ -1,4 +1,4 @@
-# Sentiment Analysis of PlanRVA Public Comments using BART-large-mnli
+# Sentiment Analysis of PlanRVA (Regional Planning Agency - Richmond, VA) Public Comments using Facebook's BART model
 
 This project utilizes Natural Language Processing (NLP) techniques to perform sentiment analysis on public review comments associated with PlanRVA's Public Engagement and Outreach Report, specifically related to the development of the ConnectRVA 2045 Long-Range Transportation Plan.
 
@@ -38,12 +38,18 @@ Instructions for replicating the analysis and exploring the results are provided
 
 Special thanks to all the organizations and individuals involved in the ConnectRVA 2045 planning process for making the Public Engagement & Outreach Report publicly available, enabling this analysis.
 
-## Plots
+## Visualization of Sentiment Analysis Results
+
+Explore detailed visualizations of the sentiment analysis results in our [Plots folder](https://github.com/planwithdata/Sentiment-Analysis_NLP/tree/main/Plots), which contains a series of charts and graphs depicting various sentiment trends and distributions related to the public comments on the ConnectRVA 2045 project.
+
 
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/e12fb56f-c6b0-45ac-96c2-31ad97ffc505)
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/a826de33-729c-45fe-9a1d-6acce8f2e119)
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/4b792656-d153-4a78-89d7-5bcd838d95f3)
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/4230c0d7-5926-408c-98c5-21c8e4ca31ac)
 
+## Future Work
+
+In the pursuit of refining the insights drawn from the sentiment analysis, future iterations of this project will focus on enhancing the accuracy of the NLP models, specifically tailored to planning-specific documents. I plan to train the pre-trained models with a curated dataset derived from urban planning texts, public comments, and other relevant documents to better capture the nuances of language used in this context. This targeted training aims to improve the model's ability to discern and classify sentiments more precisely, thereby offering more detailed and applicable insights for urban and transportation planning discussions. While the pre-trained model performed well with zero-shot classification, increasing its accuracy further will be quite relevant!
 
 
