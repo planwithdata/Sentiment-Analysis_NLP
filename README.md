@@ -42,5 +42,8 @@ Special thanks to all the organizations and individuals involved in the ConnectR
 
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/e12fb56f-c6b0-45ac-96c2-31ad97ffc505)
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/a826de33-729c-45fe-9a1d-6acce8f2e119)
+![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/4b792656-d153-4a78-89d7-5bcd838d95f3)
+![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/4230c0d7-5926-408c-98c5-21c8e4ca31ac)
+
 
 
