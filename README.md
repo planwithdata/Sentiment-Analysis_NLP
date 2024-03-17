@@ -48,5 +48,8 @@ Explore detailed visualizations of the sentiment analysis results in our [Plots 
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/4b792656-d153-4a78-89d7-5bcd838d95f3)
 ![image](https://github.com/planwithdata/Sentiment-Analysis_NLP/assets/131815755/4230c0d7-5926-408c-98c5-21c8e4ca31ac)
 
+## Future Work
+
+In the pursuit of refining the insights drawn from the sentiment analysis, future iterations of this project will focus on enhancing the accuracy of the NLP models, specifically tailored to planning-specific documents. I plan to train the pre-trained models with a curated dataset derived from urban planning texts, public comments, and other relevant documents to better capture the nuances of language used in this context. This targeted training aims to improve the model's ability to discern and classify sentiments more precisely, thereby offering more detailed and applicable insights for urban and transportation planning discussions. While the pre-trained model performed well with zero-shot classification, increasing its accuracy further will be quite relevant!
 
 
